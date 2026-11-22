@@ -1,7 +1,4 @@
 # classroom-electricity-waste-tracker
-: A beginner-friendly Python project to track electricity wastage in college classroom. 
-Classroom Electricity Waste Tracker
-
 A beginner-friendly Python project to track electricity wastage in college classrooms.
 
 Problem Statement
